@@ -1,6 +1,6 @@
 # rmldnn
 
-RocketML Deep Neural Networks
+🚀 RocketML Deep Neural Networks
 -----------------------------
 
 **rmldnn** is a command-line tool that makes deep-learning models easy to build and fast to train. It does not require knowledge of any deep-learning framework (Pytorch, Tensorflow, Keras, etc) or any Python code. Using rmldnn, one can build deep-learning models on either a small single-GPU laptop or a large supercomputer with hundreds of GPUs or CPUs without any prior knowledge of distributed computing.
@@ -24,6 +24,7 @@ The entire run is configured in the JSON file `config.json`. This file controls 
 - [Publications](#publications)
 - [Talks](#talks)
 - [Citation](#citation)
+- [How to Contribute](#how-to-contribute)
 
 
 # Why rmldnn?
@@ -233,3 +234,5 @@ Please cite rmldnn in your publications if it helps your research:
   howpublished = {\url{https://github.com/rocketmlhq/rmldnn}}
 }
 ```
+                                               
+# How to Contribute
